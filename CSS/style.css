@@ -363,6 +363,29 @@ body {
   height: 20rem;
 }
 
+.products .product-content h3 {
+  font-size: 1.5rem;
+}
+.products .product-content .stars {
+  color: var(--primary);
+  font-size: 1rem;
+  padding: 0.8rem;
+}
+
+.products .stars .fill {
+  fill: var(--primary);
+}
+
+.products .product-price {
+  font-size: 1rem;
+  font-weight: bolder;
+}
+
+.products .product-price span {
+  text-decoration: line-through;
+  font-weight: lighter;
+  font-size: 0.8rem;
+}
 /* Contact Section */
 
 .contact .row {
