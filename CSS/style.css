@@ -611,6 +611,10 @@ footer .credit a {
   .contact .row form {
     padding-top: 0;
   }
+
+  footer .link a {
+    font-size: 1.2rem;
+  }
 }
 /* Mobile Phone */
 @media screen and(max-width: 450px) {
